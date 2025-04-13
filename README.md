@@ -15,7 +15,7 @@ This repository serves as a practical guide for implementing AI solutions that d
 
 | Example | Description | Blog Post | Video Tutorial | Key Technologies |
 |---------|-------------|-----------|----------------|------------------|
-| [Adaptable Dimension Embedding](./adaptable-dimension-embedding) | Dynamic embedding dimension optimization for cost-effective LLM applications | [Link]() | [Link]() | Python, PyTorch|
+| [Adaptable Dimension Embedding](./adaptable-dimension-embeddings) | Dynamic embedding dimension optimization for cost-effective LLM applications | [Link]() | [Coming Soon]() | Python, PyTorch|
 
 
 
